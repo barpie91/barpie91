@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barpie91
-- 👀 I’m interested in Data Analysis/Data Science.
+- 👀 I’m interested in Data-related technologies.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Analytical positions.
+- 💞️ I’m looking to collaborate on Data Analyst/Engineer/BI Consultant.
 - 📫 How to reach me barpietrzyk@gmail.com
 
 <!---
