@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barpie91
 - 👀 I’m interested in Data-related technologies.
-- 🌱 I’m currently focusing on Power BI and SQL.
+- 🌱 I’m currently focusing on Power BI, Python and SQL.
 - 💞️ I’m looking to collaborate on Data Analyst/Engineer/BI Consultant.
 - 📫 How to reach me barpietrzyk@gmail.com
 
