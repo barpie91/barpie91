@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @barpie91
 - 👀 I’m interested in Data-related technologies.
-- 🌱 I’m currently focusing on Power BI, Python and SQL.
-- 💞️ I’m looking to collaborate on Data Analyst/Engineer/BI Consultant.
+- 🌱 I’m Data Analytics Consultant with the following tech stack: SQL, Power BI, Python.
+- As a Consultant I was engaged in the following roles: Data Analyst, Business Analyst, BI Consultant/Developer.
+- 🌱 I started my AI journey :)
+- 💞️ I’m looking to collaborate on analytics roles.
 - 📫 How to reach me barpietrzyk@gmail.com
 
 <!---
