@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barpie91
 - 👀 I’m interested in Data-related technologies.
 - 🌱 I’m Data Analytics Consultant with the following tech stack: SQL, Power BI, Python.
-- As a Consultant I was engaged in the following roles: Data Analyst, Business Analyst, BI Consultant/Developer.
+- As a Consultant I was engaged in the following roles: Data Analyst, Business Analyst, BI Consultant/Developer, Data Warehouse Consultant. 
 - 💞️ I’m looking to collaborate on analytics roles.
 - 📫 How to reach me barpietrzyk@gmail.com
 
